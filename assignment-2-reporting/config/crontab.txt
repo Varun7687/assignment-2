@@ -1,0 +1,1 @@
+*/15 * * * * /usr/local/bin/northwind-nightly-report.sh >> /var/log/northwind-nightly-report.log 2>&1
